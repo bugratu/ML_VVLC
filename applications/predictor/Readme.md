@@ -1,4 +1,4 @@
-##This application predicts V-VLC channel path loss by using the loaded pre-trained ML model and channel inputs. 
+## This application predicts V-VLC channel path loss by using the loaded pre-trained ML model and channel inputs. 
 Execution steps; 
 
 1- Load pre-trained model(i.e. RBFmodel.mat),
