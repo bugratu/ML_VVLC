@@ -14,7 +14,7 @@
 3rd Row: Optical Receiver Inclination Angle [0 Degree : LoS , 30 Degree DLoS ] \
 4th Row:  Inter-vehicle Distance [m]\
 5th Row: Optical Turbulence (0: low turbulence, 1:high turbulence)\
-6th Row: Measured Path Loss [dB]
+6th Row: Measured Path Loss [dB] = Target Value
 
 
 **Raw Path Loss Data Set (rawPLdataset.csv)**
