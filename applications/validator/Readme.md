@@ -1,1 +1,2 @@
-This application validates the PL prediction accuracy of the loaded ML model by plotting predicted and measured PL values. The predicted PL and residual values (i.e., measured - predicted) can be exported as .CSV file.  
+This application validates the PL prediction accuracy of the loaded ML model by calculating the residual path loss between measured and predicted values.\
+The predicted PL and residual values (i.e., measured - predicted) can be exported as .CSV file.  
