@@ -1,4 +1,4 @@
-Pathloss Data Set (PLChannelinputs.csv)
+**Pathloss Data Set (PLChannelinputs.csv)**
 
 1st Row : Sunload Sensor Values ([33 (dark-no light) , 475 (bright sun)] mV ) \
 2nd Row : Receiver Vehicle Occupied Lane, (0: same lane leader-follower, 1: left nearby lane , 2: right nearby lane, 3: right nearby lane-curvy road) \
@@ -7,7 +7,7 @@ Pathloss Data Set (PLChannelinputs.csv)
 5th Row: Optical Turbulence (0: low turbulence, 1:high turbulence)
 
 
-Validation Data Set (PLValidations.csv)
+**Validation Data Set (PLValidations.csv)**
 
 1st Row : Sunload Sensor Values ([33 (dark-no light) , 475 (bright sun)] mV ) \
 2nd Row : Receiver Vehicle Occupied Lane, (0: same lane leader-follower, 1: left nearby lane , 2: right nearby lane, 3: right nearby lane-curvy road) \
@@ -17,13 +17,13 @@ Validation Data Set (PLValidations.csv)
 6th Row: Measured Path Loss [dB]
 
 
-Raw Path Loss Data Set (rawPLdataset.csv)
+**Raw Path Loss Data Set (rawPLdataset.csv)**
 
 1st Column : Measurement Location Longitude \
 2nd Column : Measurement Location Latitude  \
 3rd Column: RSS [dBm] \
 4th Column: Measurement Time \ 
-5th Column : Accelerometer X Axis (used for data cleaning)  \
+5th Column : Accelerometer X Axis (used for data cleaning)\
 6th Column: Accelerometer Y Axis (used for data cleaning) \
 7th Column: Accelerometer Z Axis (used for data cleaning) Measured Path Loss [dB] \
 8th Column: Sunload Sensor Values ([33 (dark-no light) , 475 (bright sun)] mV ) \
