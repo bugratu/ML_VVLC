@@ -9,6 +9,6 @@ applications : Predict and export path loss/CFR by loading Models and Data-Sets
 
 datasets : Pathloss and CFR datasets to train or evaluate models
 
-models : Pre-trained models to obtain path-loss and CFR for different models
+trainedmodels : Pre-trained models to obtain path-loss and CFR for different models
 
 
