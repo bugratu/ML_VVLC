@@ -1,4 +1,4 @@
-Pathloss Data Set 
+Pathloss Data Set (PLChannelinputs.csv)
 
 1st Row : Sunload Sensor Values ([33 (dark-no light) , 475 (bright sun)] mV ) \
 2nd Row : Receiver Vehicle Occupied Lane, (0: same lane leader-follower, 1: left nearby lane , 2: right nearby lane, 3: left nearby lane-curvy road) \
@@ -7,7 +7,7 @@ Pathloss Data Set
 5th Row: Optical Turbulence (0: low turbulence, 1:high turbulence)
 
 
-Validation Data Set 
+Validation Data Set (PLValidations.csv)
 
 1st Row : Sunload Sensor Values ([33 (dark-no light) , 475 (bright sun)] mV ) \
 2nd Row : Receiver Vehicle Occupied Lane, (0: same lane leader-follower, 1: left nearby lane , 2: right nearby lane, 3: left nearby lane-curvy road) \
