@@ -5,10 +5,10 @@ This repository provides measurement dataset to train and evaluate Machine Learn
 The V-VLC path loss model incorporates, ambient light, occupied lane, receiver inclination angle, inter-vehicle distance and optical turbulence channel model inputs.\
 The V-VLC channel frequency response model (CFR) incorporates, ambient light, receiver inclination angle, LED model and inter-vehicle distance. 
 
-applications : Predict and export path loss/CFR data in .CSV format by loading the models in *trainedmodels* and channel input variables in *datasets* folders
+**applications** : Predict and export path loss/CFR data in .CSV format by loading the models in *trainedmodels* and channel input variables in *datasets* folders
 
-datasets : Pathloss and CFR datasets to train or evaluate models
+**datasets** : Pathloss and CFR datasets to train or evaluate models
 
-trainedmodels : Pre-trained models to obtain path-loss and CFR for different models
+**trainedmodels** : Pre-trained models to obtain path-loss and CFR for different models
 
 
