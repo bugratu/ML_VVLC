@@ -22,7 +22,7 @@
 1st Column : Measurement Location Longitude \
 2nd Column : Measurement Location Latitude  \
 3rd Column: RSS [dBm] \
-4th Column: Measurement Time \ 
+4th Column: Measurement Time\ 
 5th Column : Accelerometer X Axis (used for data cleaning)\
 6th Column: Accelerometer Y Axis (used for data cleaning) \
 7th Column: Accelerometer Z Axis (used for data cleaning) Measured Path Loss [dB] \
