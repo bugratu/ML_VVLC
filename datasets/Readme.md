@@ -31,5 +31,5 @@
 10th Column : Optical Receiver Inclination Angle [0 Degree : LoS , 30 Degree DLoS ] \
 11th Column : Inter-vehicle Distance [m] \
 12th Column : Optical Turbulence due to Exhaust Plumes (0: low turbulence, 1:high turbulence) \
-13th Column : Transmit Power [dBm]
+13th Column : Transmit Power [dBm]\
 14th Column : Path Loss [dB]
