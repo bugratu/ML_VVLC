@@ -33,3 +33,11 @@
 12th Column : Optical Turbulence due to Exhaust Plumes (0: low turbulence, 1:high turbulence) \
 13th Column : Transmit Power [dBm]\
 14th Column : Path Loss [dB]
+
+**CFR Measurement Data Set (CFRData.mat)** 
+Column 1 - 19 : Frequency Dependent Channel Gain Data (S_21) 200 kHz- 2MHz, 100 kHz interval [dB]
+Column 20 : Inter-vehicular distance [m]
+Column 21 : Receiver Inclination Angle [Degree]
+Column 22: Sunload Sensor [mV]
+Column 23 : Occupied Lane (L1-same, L2-next)
+Column 24 : LED Under Consideration (LED1: Mondeo LB Headlight, LED2: Fiat Linea DRL)
