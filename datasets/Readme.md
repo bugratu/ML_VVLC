@@ -35,6 +35,8 @@
 14th Column : Path Loss [dB]
 
 **CFR Measurement Data Set (CFRData.mat)** 
+
+
 Column 1 - 19 : Frequency Dependent Channel Gain Data (S_21) 200 kHz- 2MHz, 100 kHz interval [dB]\
 Column 20 : Inter-vehicular distance [m]\
 Column 21 : Receiver Inclination Angle [Degree]\
